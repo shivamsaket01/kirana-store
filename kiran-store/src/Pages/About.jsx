@@ -31,7 +31,7 @@ export default function About() {
       {/* Hero Section */}
       <div className="relative bg-blue-600 py-20 px-6 text-center text-white">
         <div className="max-w-4xl mx-auto">
-          <h1 className="text-4xl md:text-6xl font-black mb-6">Hamari Fun Kahani! 🎉</h1>
+          <h1 className="text-4xl md:text-6xl font-black mb-6">Hamari Fun Kahani! </h1>
           <p className="text-lg md:text-xl text-blue-100 leading-relaxed">
             15 saalon se bacchon aur families ke bharose ka saathi! Hum sirf saaman nahi,
             khushiyan aur mazedaar cheezein bechte hain. Yummy grocery ab aapke darwaze par! 🍬
